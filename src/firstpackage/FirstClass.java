@@ -8,7 +8,7 @@ public class FirstClass {
 
 		System.out.println("third commit from local repository, çakışma olsun bakalım!!!");
 
-		System.out.println("conflict çakışma yapmak istiyoruz");
+		System.out.println("ikinci kez conflict çakışma yapmak istiyoruz");
 
 		System.out.println("bu da git hub'dan local repostory'ye gitsin (first commit from remote repository");
 		
